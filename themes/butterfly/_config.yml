@@ -132,10 +132,8 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
-    - https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg.png
-    - https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg2.png
-    - https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg3.png
+    - /img/defaultArtPic1.jpg
+    - /img/defaultArtPic2.jpg
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
@@ -376,7 +374,7 @@ footer:
   owner:
     enable: true
     since: 2018
-  custom_text: Power by Hexo
+  custom_text: Power by Hexo, Theme use Butterfly
   copyright: false # Copyright of theme and framework
   ICP: # Chinese ICP License
     enable: false
@@ -809,7 +807,7 @@ fragment_cache: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
-    - <link rel="stylesheet" href="//at.alicdn.com/t/font_2083786_ta2gchxc4dj.css">
+    - <link rel="stylesheet" href="//at.alicdn.com/t/font_2083786_ms3g8hsj0v.css">
   bottom:
     # - <script src="xxxx"></script>
 
