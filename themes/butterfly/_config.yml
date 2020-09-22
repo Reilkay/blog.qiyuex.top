@@ -99,10 +99,10 @@ avatar:
   effect: false
 
 # the banner image of home page
-index_img: https://w.wallhaven.cc/full/2e/wallhaven-2eroxm.jpg
+index_img: /img/indexPic.jpg
 
 # if the banner of page not setting, it will show the top_img
-default_top_img:
+default_top_img: /img/defaultTopPic.jpg
 
 # the banner image of archive page
 archive_img:
