@@ -91,18 +91,18 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
+favicon: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: /img/Ray.jpg
+  img: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/avatar/Ray.jpg
   effect: false
 
 # the banner image of home page
-index_img: /img/indexPic.jpg
+index_img: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/banner/indexPic.jpg
 
 # if the banner of page not setting, it will show the top_img
-default_top_img: /img/defaultTopPic.jpg
+default_top_img: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/banner/defaultTopPic.jpg
 
 # the banner image of archive page
 archive_img:
@@ -132,19 +132,19 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - /img/defaultArtPic1.jpg
-    - /img/defaultArtPic2.jpg
+    - //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/banner/defaultArtPic1.jpg
+    - //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/banner/defaultArtPic2.jpg
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
-  flink: /img/friend_404.gif
-  post_page: /img/404.jpg
+  flink: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/friend_404.gif
+  post_page: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/404/404Pic.jpg
 
 # A simple 404 page
 error_404:
   enable: true
-  subtitle: 'Page Not Found'
-  background: /img/404Page.jpg
+  subtitle: '页面没有找到'
+  background: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/404/404Page.jpg
 
 post_meta:
   page: # Home Page
@@ -192,10 +192,10 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: /img/wechat.png
+    - img: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/donate/wechat.png
       link: 
       text: 微信
-    - img: /img/alipay.png
+    - img: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/donate/alipay.png
       link:
       text: 支付宝
 
@@ -380,7 +380,7 @@ footer:
     enable: false
     url:
     text:
-    icon: /img/icp.png
+    icon: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/icp.png
 
 # Analysis
 # --------------------------------------
@@ -593,7 +593,7 @@ subtitle:
   sub: 契约的代码摸鱼日常~
 
 # Loading Animation (加載動畫)
-preloader: false
+preloader: true
 
 # aside (側邊欄)
 # --------------------------------------
@@ -777,8 +777,8 @@ pangu:
 # Lazyload (圖片懶加載)
 # https://github.com/verlok/lazyload
 lazyload:
-  enable: false
-  post: /img/loading.gif
+  enable: true
+  post: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/loading/loading.gif
 
 # PWA
 # See https://github.com/JLHwung/hexo-offline
