@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2020-05-10T12:08:14+08:00
-draft: false
+comments: false
 authour: "Ray"
 ---
 
