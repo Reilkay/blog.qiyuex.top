@@ -447,11 +447,11 @@ yandex_site_verification:
 # Theme color for customize
 # Notice: color value must in double quotes like "#000" or may cause error!
 
-# theme_color:
-#   enable: true
-#   main: "#49B1F5"
+theme_color:
+  enable: true
+  main: "#FF93A0"
 #   paginator: "#00c4b6"
-#   button_hover: "#FF7242"
+  button_hover: "#BCD2EE"
 #   text_selection: "#00c4b6"
 #   link_color: "#99a9bf"
 #   meta_color: "#858585"
