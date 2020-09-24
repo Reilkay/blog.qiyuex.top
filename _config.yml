@@ -135,3 +135,14 @@ sitemap:
   rel: false
   tags: false
   categories: true 
+
+# hexo-renderer-kramed
+## Docs: https://www.npmjs.com/package/hexo-renderer-kramed
+kramed:
+  gfm: true
+  pedantic: false
+  sanitize: false
+  tables: true
+  breaks: true
+  smartLists: true
+  smartypants: true
