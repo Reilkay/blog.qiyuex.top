@@ -3,11 +3,11 @@
   link_list:
     - name: 文文
       link: https://allwens.work/
-      avatar: https://cdn.jsdelivr.net/gh/amtoaer/blogcdn@master/img/custom/amtoaer.png
+      avatar: //cdn.jsdelivr.net/gh/amtoaer/blogcdn@master/img/custom/amtoaer.png
       descr: 编程巨佬文文
     - name: Samsara
       link: http://samsara.press/
-      avatar: /img/avatar/Samsara.jpg
+      avatar: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/avatar/Samsara.jpg
       descr: 数模巨佬
     # - name: Hexo
     #   link: https://hexo.io/zh-tw/
