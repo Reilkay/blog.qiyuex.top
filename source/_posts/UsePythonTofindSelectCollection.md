@@ -11,15 +11,6 @@ comments:
 cover:
 toc:
 ---
----
-title: "Python求Select集" 
-date: 2020-07-16T17:53:22+08:00
-draft: false
-authour: "Ray"
-description: "编译原理求First集Follow集Select集"
-categories: ["软件开发"]
-tags: ["编译原理","Python","学习日记"]
----
 
 刚刚整完编译原理的课设报告，突然想起来求Select的时候遇到的各种坑，想到当时网上各种资料的错误和不全面，然后又想到万年没更新过的博客，特地来更新一下。
 
