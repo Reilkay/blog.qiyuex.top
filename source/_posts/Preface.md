@@ -11,15 +11,6 @@ comments:
 cover:
 toc:
 ---
----
-title: "前言"
-date: 2020-05-11T00:52:15+08:00
-draft: false
-authour: "Ray"
-description: "description"
-categories: ["博客相关"]
-tags: ["Hugo","博客","日常"]
----
 
 2020属实开年不顺，（并没）有人可能发现本博客更换了主题，甚至连系统都换了。虽然理由可以是“Hugo性能好啊！”，“静态博客加载快！”，“挂GitHub Page不占服务器！”，然而事实只是因为原来的博客炸了（悲）。
 
