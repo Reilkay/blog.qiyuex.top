@@ -295,8 +295,8 @@ gitalk:
 # valine
 # https://valine.js.org
 valine:
-  appId: k2q8LLkau2c1JYzOIEI6vk3z-gzGzoHsz
-  appKey: bEUs7Mk4hlUaQr1zai1EzfQO
+  appId: KzQ5d4U3EYaFFmtVDV7Pzxc2-MdYXbMMI
+  appKey: BU6THtlF7KXbGspXgM2bcuu7
   pageSize: 10 # comment list page size
   avatar: mp # gravatar style https://valine.js.org/#/avatar
   lang: zh-CN # i18n: zh-CN/zh-TW/en/ja
