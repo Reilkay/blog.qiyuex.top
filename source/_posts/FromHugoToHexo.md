@@ -6,9 +6,9 @@ tags: ["Hexo","博客","日常"]
 categories: 博客相关
 keywords: ["Hexo","Hugo","博客","Vercel"]
 description: 记录把博客从Hugo折腾到Hexo的故事~
-top_img: https://cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/Art-FromHugoToHexo.jpg
+top_img: 
 comments:
-cover:
+cover: https://cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/banner/Art-FromHugoToHexo.jpg
 toc:
 ---
 
