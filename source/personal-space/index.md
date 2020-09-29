@@ -4,7 +4,7 @@ date: 2020-09-16 00:58:58
 type: artitalk
 comments: false
 ---
-<div id="artitalk-main"></div>
+<div id="artitalk_main"></div>
 <script>
     if (window.artitalk===undefined){
         window.artitalk=new Artitalk();
@@ -16,6 +16,6 @@ comments: false
     color1: '#d9d9f3',
     color2: '#ceefe4',
     color3: 'black',
-    atComment: 0,
+    atComment: 0
 })
 </script>
