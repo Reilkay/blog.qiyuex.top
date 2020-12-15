@@ -1,28 +1,30 @@
 if hexo-config('readmode')
-  [data-theme='light']
-    .read-mode
-      --font-color: #4c4948
-      --readmode-light-color: #fff
-      --white: #4c4948
-      --light-grey: #4c4948
-      --gray: #d6dbdf
-      --hr-border: #d6dbdf
-      --hr-before-color: darken(#d6dbdf, 10)
-      -highlight-bg: #f7f7f7
+  .read-mode
+    --font-color: #4c4948
+    --readmode-light-color: #fff
+    --white: #4c4948
+    --light-grey: #4c4948
+    --gray: #d6dbdf
+    --hr-border: #d6dbdf
+    --hr-before-color: darken(#d6dbdf, 10)
+    -highlight-bg: #f7f7f7
 
   [data-theme='dark']
     .read-mode
-      --font-color: rgba(255, 255, 255, .6)
+      --font-color: rgba(255, 255, 255, .7)
       --readmode-light-color: #0d0d0d
-      --white: rgba(255, 255, 255, .8)
-      --light-grey: rgba(255, 255, 255, .6)
-      --gray: rgba(255, 255, 255, .6)
-      --hr-border: rgba(255, 255, 255, .3)
-      --hr-before-color: rgba(255, 255, 255, .6)
+      --white: rgba(255, 255, 255, .9)
+      --light-grey: rgba(255, 255, 255, .7)
+      --gray: rgba(255, 255, 255, .7)
+      --hr-border: rgba(255, 255, 255, .5)
+      --hr-before-color: rgba(255, 255, 255, .7)
       -highlight-bg: #171717
 
   .read-mode
     background: var(--readmode-light-color)
+
+    #aside_content
+      display: none
 
     #body-wrap
       padding-left: 0 !important
@@ -38,23 +40,21 @@ if hexo-config('readmode')
         padding: 0
         text-align: center
 
-    .layout_post
-      > #post
-        background: transparent
-        box-shadow: none
+    #post
+      margin: 0 auto
+      background: transparent
+      box-shadow: none
 
-        &:hover
-          box-shadow: none
+      &:hover
+        box-shadow: none
 
     & > canvas
       display: none !important
 
     .highlight-tools,
     #footer,
-    #post > *:not(:first-child),
+    #post > *:not(#post-info):not(.post-content),
     #to_comment,
-    #sidebar,
-    #toggle-sidebar,
     #mobile-toc-button,
     #nav,
     .post-outdate-notice,
@@ -179,6 +179,7 @@ if hexo-config('readmode')
 
       .note
         border: 2px solid var(--gray)
+        border-left-color: var(--gray) !important
         filter: none
-        background-color: var(--readmode-light-color)
+        background-color: var(--readmode-light-color) !important
         color: var(--font-color)
