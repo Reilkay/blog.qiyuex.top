@@ -15,6 +15,11 @@ authour: "Ray"
 
 ​	Aim to build a document library to record daily and leave something interesting to the world~
 
+关于技术分享等内容可以移步 [Binray](https://blog.reilkay.com)，本人的另一个站点。
+
+​	For technical sharing and other content, you can move to [Binray](https://blog.reilkay.com), another site of mine.
+
+
 ## 博主简介
 
 **QiYue/KeiYAKu**：契约，是存在于现实中的菜鸡博主，没什么好说的。
@@ -37,9 +42,9 @@ authour: "Ray"
 
 ​	Ray, a fictitious blogger, has some simple computer science knowledge. According to the setting, all codes and projects are maintained by her. (lol
 
-+ Github 地址：[RayK](https://github.com/Ray-Keiyaku)
++ Github 地址：[RayK](https://github.com/Reilkay)
 
-  ​	Github address.
+  ​	Github address: [RayK](https://github.com/Reilkay)
 
 + 是可爱萝莉（大雾
 
