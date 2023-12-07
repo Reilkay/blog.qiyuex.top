@@ -1,6 +1,7 @@
 ---
 title: "关于"
 date: 2020-05-10T12:08:14+08:00
+updated: 2023-12-08 00:45:16
 comments: false
 authour: "Ray"
 ---
@@ -26,9 +27,9 @@ authour: "Ray"
 
 ​	QiYue, a rookie blogger that exists in reality, nothing to say.
 
-- 现就读于东北大学，坐标位于中国沈阳。
+- 现就读于西澳大学，坐标位于Perth WA, 6009, Australia。
 
-  ​	studying at Northeastern University, Shenyang, China.
+  ​	studying at The University of Western Australia, Perth WA, 6009, Australia.
 
 - 现居于中国新疆乌鲁木齐市。
 
