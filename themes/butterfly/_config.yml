@@ -857,7 +857,7 @@ artitalk:
     enable: true
     appId: lCfqaEnhGfQS2xYSD2KOaIW2-MdYXbMMI
     appKey: ufs1bCtVlXSOONeAPgFDPd2A
-    path: personal-space/
+    path:
     js:
     option:
         pageSize: 5,
