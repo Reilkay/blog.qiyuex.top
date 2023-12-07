@@ -452,20 +452,20 @@ gitalk:
 # valine
 # https://valine.js.org
 valine:
-    appId: lCfqaEnhGfQS2xYSD2KOaIW2-MdYXbMMI
-    appKey: ufs1bCtVlXSOONeAPgFDPd2A
+    appId: lCfqaEnhGfQS2xYSD2KOaIW2-MdYXbMMI # leancloud application app id
+    appKey: ufs1bCtVlXSOONeAPgFDPd2A # leancloud application app key
     avatar: mp # gravatar style https://valine.js.org/#/avatar
-    lang: zh-CN # i18n: zh-CN/zh-TW/en/ja
-    placeholder: Σ(っ °Д °;)っ你咋不评论就想走啊！ # valine comment input placeholder (like: Please leave your footprints)
-    guest_info: nick,mail,link # valine comment header info (nick/mail/link)
-    recordIP: false # Record reviewer IP
-    serverURLs: https://lcfqaenh.api.lncldglobal.com
+    serverURLs:
     # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
     bg: # valine background
-    emojiCDN: # emoji CDN
-    enableQQ: false # enable the Nickname box to automatically get QQ Nickname and QQ Avatar
-    requiredFields: nick,mail # required fields (nick/mail)
+    visitor: false
     option:
+        placeholder: Σ(っ °Д °;)っ你咋不评论就想走啊！ # valine comment input placeholder (like: Please leave your footprints)
+        # guest_info: nick,mail,link # valine comment header info (nick/mail/link)
+        # recordIP: false # Record reviewer IP
+        # emojiCDN: # emoji CDN
+        # enableQQ: false # enable the Nickname box to automatically get QQ Nickname and QQ Avatar
+        requiredFields: nick, mail # required fields (nick/mail)
 
 # waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
