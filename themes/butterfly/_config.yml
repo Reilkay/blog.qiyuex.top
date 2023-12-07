@@ -459,7 +459,8 @@ valine:
     placeholder: Σ(っ °Д °;)っ你咋不评论就想走啊！ # valine comment input placeholder (like: Please leave your footprints)
     guest_info: nick,mail,link # valine comment header info (nick/mail/link)
     recordIP: false # Record reviewer IP
-    serverURLs: # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
+    serverURLs: https://lcfqaenh.api.lncldglobal.com
+    # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
     bg: # valine background
     emojiCDN: # emoji CDN
     enableQQ: false # enable the Nickname box to automatically get QQ Nickname and QQ Avatar
@@ -769,6 +770,7 @@ subtitle:
     # Customize typed.js (配置typed.js)
     # https://github.com/mattboldt/typed.js/#customization
     typed_option:
+        loop: false
     # source 調用第三方服務
     # source: false 關閉調用
     # source: 1  調用一言網的一句話（簡體） https://hitokoto.cn/
@@ -777,7 +779,9 @@ subtitle:
     # subtitle 會先顯示 source , 再顯示 sub 的內容
     source: false
     # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
-    sub: 契约的代码摸鱼日常~
+    sub:
+        - 欲买桂花同载酒，终不似，少年游
+        - 契约的摸鱼日常~
 
 # Loading Animation (加載動畫)
 preloader:
@@ -854,13 +858,17 @@ note:
 # Artitalk
 # see https://artitalk.js.org/
 artitalk:
+    enable: true
     appId: lCfqaEnhGfQS2xYSD2KOaIW2-MdYXbMMI
     appKey: ufs1bCtVlXSOONeAPgFDPd2A
+    path: personal-space/
+    js:
     option:
         pageSize: 5,
         color1: "#d9d9f3"
         color2: "#ceefe4"
         color3: "black"
+    front_matter:
 
 # Pjax
 # It may contain bugs and unstable, give feedback when you find the bugs.
