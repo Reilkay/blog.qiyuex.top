@@ -38,7 +38,7 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
-    fab fa-github: https://github.com/Ray-Keiyaku || Github
+    fab fa-github: https://github.com/Reilkay || Github
     fas fa-envelope: mailto:zrztt@outlook.com || Email
     fab fa-telegram: https://t.me/QiYuex || Telegram
     fab fa-twitter: https://twitter.com/Contract_ || Twitter
@@ -48,21 +48,21 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/favicon.png
+favicon: //cdn.jsdelivr.net/gh/Reilkay/blog-cdn@master/img/favicon.png
 
 # Avatar (頭像)
 avatar:
-    img: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/avatar/Ray.jpg
+    img: //cdn.jsdelivr.net/gh/Reilkay/blog-cdn@master/img/avatar/Ray.jpg
     effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/banner/indexPic.webp
+index_img: //cdn.jsdelivr.net/gh/Reilkay/blog-cdn@master/img/banner/indexPic.webp
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/banner/defaultTopPic.jpg
+default_top_img: //cdn.jsdelivr.net/gh/Reilkay/blog-cdn@master/img/banner/defaultTopPic.jpg
 
 # The banner image of archive page
 archive_img:
@@ -95,19 +95,19 @@ cover:
     position: both
     # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
     default_cover:
-        - //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/banner/defaultArtPic1.jpg
-        - //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/banner/defaultArtPic2.jpg
+        - //cdn.jsdelivr.net/gh/Reilkay/blog-cdn@master/img/banner/defaultArtPic1.jpg
+        - //cdn.jsdelivr.net/gh/Reilkay/blog-cdn@master/img/banner/defaultArtPic2.jpg
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
-    flink: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/friend_404.gif
-    post_page: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/404/404Pic.jpg
+    flink: //cdn.jsdelivr.net/gh/Reilkay/blog-cdn@master/img/friend_404.gif
+    post_page: //cdn.jsdelivr.net/gh/Reilkay/blog-cdn@master/img/404/404Pic.jpg
 
 # A simple 404 page
 error_404:
     enable: true
     subtitle: "页面没有找到"
-    background: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/404/404Page.jpg
+    background: //cdn.jsdelivr.net/gh/Reilkay/blog-cdn@master/img/404/404Page.jpg
 
 post_meta:
     page: # Home Page
@@ -174,10 +174,10 @@ reward:
     enable: true
     text:
     QR_code:
-        - img: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/donate/wechat.png
+        - img: //cdn.jsdelivr.net/gh/Reilkay/blog-cdn@master/img/donate/wechat.png
           link:
           text: 微信
-        - img: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/donate/alipay.png
+        - img: //cdn.jsdelivr.net/gh/Reilkay/blog-cdn@master/img/donate/alipay.png
           link:
           text: 支付宝
 
@@ -905,7 +905,7 @@ pangu:
 lazyload:
     enable: true
     field: post # site/post
-    placeholder: //cdn.jsdelivr.net/gh/Ray-Keiyaku/blog-cdn@master/img/loading/loading.gif
+    placeholder: //cdn.jsdelivr.net/gh/Reilkay/blog-cdn@master/img/loading/loading.gif
     blur: false
 
 # PWA
