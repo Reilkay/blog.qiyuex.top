@@ -455,7 +455,7 @@ valine:
     appId: lCfqaEnhGfQS2xYSD2KOaIW2-MdYXbMMI # leancloud application app id
     appKey: ufs1bCtVlXSOONeAPgFDPd2A # leancloud application app key
     avatar: mp # gravatar style https://valine.js.org/#/avatar
-    serverURLs:
+    serverURLs: https://lcfqaenh.api.lncldglobal.com
     # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
     bg: # valine background
     visitor: false
