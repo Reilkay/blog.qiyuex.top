@@ -1,7 +1,7 @@
 ---
 title: 日志规范及目录指引
 date: 2021-05-05 12:36:03
-updated: 2021-07-20 11:40:03
+updated: 2025-07-31 15:02:03
 tags: ["日常", "旅行日记", "美食日记"]
 categories: 日常记录
 keywords:
@@ -17,7 +17,7 @@ toc:
 > 日志大致分为两类，旅行日记、美食日记
 
 1. 旅行日记规范
-    - 文件名称为省/市拼音 + TravelLog + 序号(从 2 开始)。
+    - 文件名称为省/市拼音 + TravelLog + 序号(从 1 开始)。
     - 标题为省/市名 + 旅行日记 + （序号）(从二开始)。
     - tags 为 ["日常","旅行日记","省/市名"]。
     - 分类为 旅行日记
@@ -46,9 +46,9 @@ toc:
 
 ### 旅行日志
 
-[辽宁旅行日记-2020/10/01](https://blog.qiyuex.top/LiaoNingTravelLog/)
+<!-- [辽宁旅行日记-2020/10/01](https://blog.qiyuex.top/LiaoNingTravelLog/)
 
-[大连旅行日记-2021/05/01](https://blog.qiyuex.top/DaLianTravelLog/)
+[大连旅行日记-2021/05/01](https://blog.qiyuex.top/DaLianTravelLog/) -->
 
 ### 美食日记
 

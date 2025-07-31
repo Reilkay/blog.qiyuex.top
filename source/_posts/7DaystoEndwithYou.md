@@ -2,9 +2,9 @@
 title: 7 Days to End with You随记
 date: 2023-12-16 03:23:53
 updated: 2023-12-16 03:23:53
-tags:['游戏','随记']
+tags: ['游戏','随记']
 categories: 游戏
-keywords:['游戏','解密','随记',]
+keywords: ['游戏','解密','随记']
 description: 《7 Days to End with You》是一款推理词语的含义，进而解读故事内容的创新型游戏。你需要解读未知的语言，进而弄清这个被隐藏的故事。！！剧透警告！！
 top_img:
 comments:
